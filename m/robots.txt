@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /db/
+Disallow: /themes/
+Disallow: /admin.php
+Disallow: /siteman.class.php
+Disallow: /txtSQL.class.php
+Disallow: /txtSQL.core.php

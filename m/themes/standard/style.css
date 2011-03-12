@@ -1,0 +1,123 @@
+.border{
+	background-color : #666666;
+}
+.menu-header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #666666;
+	background-color: BDEA2D;
+	font-weight: bold;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.menu {
+	background-color: E1F6A1;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color : #333333;
+	padding-right: 25px;
+	text-align: justify;
+	padding-left: 25px;
+}
+.menu-footer {
+	background-color: ECF9C4;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10px;
+	color : #999999;
+}
+.dark { font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	background-color: BDEA2D;
+}
+
+.middark {
+	background-color: E1F6A1;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color : #333333;
+}
+
+.light {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	background-color: ECF9C4;
+}
+	
+.content-header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #666666;
+	background-color: E1F6A1;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	background-color: ECF9C4;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-top: 25px;
+}
+td { font-size: 11px;
+	word-wrap: break-word;
+}
+.content-footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	background-color: FBFEF2;
+	background-position: right;
+	text-align: right;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+.navbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	background-color: FBFEF2;
+	background-position: right;
+}
+
+HR {
+	color : BDEA2D;
+}
+LI {
+	list-style-type : square;
+}
+
+a, a:active,a:link,a:visited {
+	color : #77970C;
+	text-decoration : underline;
+}
+
+a:hover {
+	color : #666666;
+	text-decoration : underline;
+}
+a.b, a.b:link, a.b:active, a.b:visited {
+text-decoration: none; color: #000;
+}
+a.b:hover {
+text-decoration: underline; color : #000;
+}
+input, select, textarea {
+	color : #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : BDEA2D;
+	border : 1px #333333;
+	border-style : solid;
+	font-size: 11px;
+}
+
+.error { color: #BB0000; }
+
+
+
